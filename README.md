@@ -2,9 +2,11 @@ Aplicação NodeJs para criação de Usuários e Tarefas
 
 Getting Started
 
-Instalação 
+Instalação:
+
 yarn
 
-Execução
+Execução:
+
 yarn dev
 
